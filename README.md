@@ -1,5 +1,6 @@
 # foreCalc
 #This is a mobile application which computes and predicts future values based from historical data using different types of forecasting.
+
 #Types of forecasts
 # - Exponential Smoothing
 # - Linear Trend
