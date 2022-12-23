@@ -5,4 +5,4 @@
 # - Exponential Smoothing
 # - Linear Trend
 # - Multiplicative Model 
-to properly calculate the forecasted value, input values from keyboard must "checked" in order for the inputs to be entered
+to properly calculate the forecasted value, tap or click the check in the keyboard in order for the inputs to be entered
